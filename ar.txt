@@ -1,1 +1,1 @@
-hello, my branch is "panin"
+hello, my branch is "panin". Broken git
