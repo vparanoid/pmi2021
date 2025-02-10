@@ -5,3 +5,4 @@
 - Vitaliy added vitaliy.txt
 - spaceoutlaw3001
 - todery -_-
+- khrul added khrul.txt
