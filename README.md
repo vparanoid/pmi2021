@@ -8,3 +8,4 @@
 - khrul added khrul.txt
 - jenek594 added jenek594.txt
 - hitanon added hitanon.txt
+- RinatHar added rinat.txt
